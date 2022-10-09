@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 50px 100px;
+}
+
+h1{
+     text-align: center;
+     text-decoration: underline;
+}
+
+p{
+     font-size: 18px;
+     text-align: justify;
+     
+}
+
+.btn {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#black{
+    background-color: #000000;
+    display: inline-block;
+}
+
+
+#white{
+    background-color: #ffffff;
+    border: solid 1px;
+    display: inline-block;
+}
+
+
+#cadetblue{
+    background-color: #5f9ea0;
+    display: inline-block;
+}
+
+
+#aquamarine{
+    background-color: #7fffd4;
+    display: inline-block;
+}
+
+#color{
+    text-align: right;
+}
